@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+schedule
+Flask
+nest_asyncio
+requests
+pytz
+telegram
+deep-translator
+geopy
